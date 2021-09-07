@@ -1,0 +1,35 @@
+{
+"data" : [
+{
+"number" : 149.52,
+"Date" : "April 1, 2015"
+}, {
+"number" : 149.38, 
+"Date" : "April 2, 2015"
+}, {
+"number" : 149.60, 
+"Date" : "April 3, 2015"
+}, {
+"number" : 149.10, 
+"Date" : "April 4, 2015"
+}, {
+"number" : 151.77, 
+"Date" : "April 5, 2015"
+}, {
+"number" : 150.84, 
+"Date" : "April 6, 2015"
+}, {
+"number" : 149.93, 
+"Date" : "April 7, 2015"
+}, {
+"number" : 149.63, 
+"Date" : "April 8, 2015"
+}, {
+"number" : 149.95, 
+"Date" : "April 9, 2015"
+}, {
+"number" : 147.79, 
+"Date" : "April 10, 2015"
+}
+]
+}
